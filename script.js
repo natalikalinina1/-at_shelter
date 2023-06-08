@@ -75,3 +75,5 @@ for (let i = 0; i < infoCats.length; i++) {
   const targetElement = document.querySelector(`#name-cat-${i+1}`);
   targetElement.insertAdjacentHTML('afterend', infoList);
 }
+
+
